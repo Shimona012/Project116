@@ -1,0 +1,12 @@
+body {
+    background: lavenderblush;
+    color: purple;
+    text-align: center;
+    font-family: system-ui;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
